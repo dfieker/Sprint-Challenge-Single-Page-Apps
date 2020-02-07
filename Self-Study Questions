@@ -1,0 +1,8 @@
+Self-Study/Essay Questions
+Demonstrate your understanding of this Sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
+
+Explain benefit(s) using client-side routing?
+
+Client-side routing is more efficient than server-side routing because it doesn't keep refreshing the whole web page whenever a user clicks on a requested resource. Instead, the resource that is requested is already there and available for the user and it's displayed when the user asks for it. To put it another way, Client-side routing makes it to where just certain elements inside of the application change rather than the whole web page refreshing.
+
+Since less data is processed with client-side routing, routing between views is generally faster. Also, smooth transitions and animations between views are easier to implement with client-side routing.
